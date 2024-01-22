@@ -1,0 +1,32 @@
+.title {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 12px;
+}
+.textInput {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 12px;
+}
+.ini-Arr {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.results {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.buttons {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
